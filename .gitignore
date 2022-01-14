@@ -1,3 +1,16 @@
+analysis/Fig1.svg
+analysis/Fig2.svg
+analysis/Fig3.svg
+analysis/Fig4.svg
+analysis/Fig5.svg
+analysis/Fig6.svg
+analysis/Fig7.svg
+resources/PyBer_ride_data.csv
+PyBer.ipynb
+PyBer_Challenge_starter_code.ipynb
+matplotlib_practice.ipynb
+pyber_ride_data.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
