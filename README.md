@@ -16,6 +16,7 @@ Average fares per ride and average fares per driver are inversely correlated wit
 Nothing about this is particularly surprising. Considering rural areas:
 - fewer people live in rural areas, so there are fewer drivers,
 - and people also live further apart, making ride distances longer.
+
 We could expect both of these factors to increase average fares per ride & average fares per driver. Yet, while average fares are higher, PyBer still doesn't get very much revenue from rural areas, because there simply aren't as many customers in those areas.
 
 For urban areas, consider every factor outlined above, but in reverse, and suburban areas split the distance between the two geographies.
