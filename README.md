@@ -29,6 +29,15 @@ A graphical analysis of total fares over a fairly large slice of our data does n
 ## Recommendations
 
 Based on the above analysis, I would make the following recommendations to PyBer's CEO:
-1. Advertise more in suburban areas which closely adjoin urban areas. The advantages of more urban drivers means that customers shouldn't have too hard of a time getting a ride in the early phases of a suburban push, but the rides would tend to be longer and thus the fares larger, making urban/suburban border areas the sweetspot for expanded market penetration.
-2. Identify lucrative rural routes. While PyBer will never do as much business in rural areas as in urban areas, there are clearly rural customers for PyBer's ridesharing service. What PyBer needs to figure out, is who these customers are and where they are going. Since there are fewer drivers in rural areas and wait times must be long, it's a good guess that these are customers who have a strong attachment to PyBer's service. PyBer should identify other rural customers who may be similarly situated.
-3. Communicate to urban drivers the opportunities available in other geographies. The average fare per driver is more than 3x as high in suburban areas vs. urban areas — and more than 12x as high in rural areas! There is a demand for PyBer's services in other geographic regions than cities, but if PyBer cannot ensure enough drivers in these areas, then it runs the risk of falling out of use. From a driver's perspective, there is better income to be had in rural and suburban areas. If PyBer can communicate this opportunity to its drivers, then the situations is win–win–win for investors, drivers, and customers alike.
+
+1. Advertise more in suburban areas which closely adjoin urban areas.
+
+    The advantages of more urban drivers means that customers shouldn't have too hard of a time getting a ride in the early phases of a suburban push, but the rides would tend to be longer and thus the fares larger, making urban/suburban border areas the sweetspot for expanded market penetration.
+
+2. Identify lucrative rural routes.
+
+    While PyBer will never do as much business in rural areas as in urban areas, there are clearly rural customers for PyBer's ridesharing service. What PyBer needs to figure out, is who these customers are and where they are going. Since there are fewer drivers in rural areas and wait times must be long, it's a good guess that these are customers who have a strong attachment to PyBer's service. PyBer should identify other rural customers who may be similarly situated.
+
+3. Communicate to urban drivers the opportunities available in other geographies.
+
+    The average fare per driver is more than 3x as high in suburban areas vs. urban areas — and more than 12x as high in rural areas! There is a demand for PyBer's services in other geographic regions than cities, but if PyBer cannot ensure enough drivers in these areas, then it runs the risk of falling out of use. From a driver's perspective, there is better income to be had in rural and suburban areas. If PyBer can communicate this opportunity to its drivers, then the situations is win–win–win for investors, drivers, and customers alike.
